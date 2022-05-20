@@ -1,6 +1,6 @@
 # advanced-git commands which I have gathered while surfing in web
 Advanced git commands that I don't know before
-## degisiklik
+
 1. ### Combine ADD and COMMIT
 To save a snapshot of our code, we use "add" followed by a commit message.
 ```bash
